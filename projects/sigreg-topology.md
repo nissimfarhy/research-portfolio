@@ -1,5 +1,5 @@
-# Self-Exciting Dynamics in Automated Financial Markets
+# Gaussian Regularization and Topological Structure
 
-**Status:** Undergraduate Honors Thesis — Work in Progress
+**Status:** Ongoing Research
 
 Project page under construction.
